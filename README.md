@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there
+My name is Vinicius and I'm a sofware developer. I have been developing for around 3 years and I'm currently learning more about web development.
 
+## What I use
+**Languages:** Typescript, Javascript, HTML/CSS, C#<br/>
+**Frameworks:** React, Vue, Express<br/>
+**Technologies:** Git, Node.js, MongoDB<br/>
 <!--
 **vinicius404/vinicius404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
