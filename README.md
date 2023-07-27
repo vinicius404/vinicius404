@@ -1,5 +1,5 @@
 # Hi there
-My name is Vinicius and I'm a sofware developer. I have been developing for around 3 years and I'm currently learning more about web development.
+I'm Vinicius, a highly skilled and passionate software developer with over 3 years of experience in the industry. My expertise lies in web development, and I bring a wealth of knowledge and a proven track record of building robust and innovative web applications.
 
 ## What I use
 **Languages:** Typescript, Javascript, HTML/CSS<br/>
