@@ -1,3 +1,3 @@
-**Languages:** Go, Typescript/Javascript, HTML/CSS<br/>
-**Frameworks:** React, NextJS, Express<br/>
-**Technologies:** Git, Node.js, MongoDB, Redis<br/>
+**Languages:** Go, C#, Typescript/Javascript, HTML/CSS<br/>
+**Frameworks:** ASP.NET, React, NextJS, Express<br/>
+**Technologies:** Git, Node.js, SQL, MongoDB, Redis<br/>
